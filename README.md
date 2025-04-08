@@ -8,10 +8,10 @@ Mint Classics operates with several warehouses that hold a wide range of product
 
 Key questions addressed in this analysis:
 
-- **Which warehouse has the highest stock and capacity?
-- **Can stock from one warehouse be absorbed by another warehouse?
-- **Warehouse Capacity Utilization**: How can we assess the capacity utilization of each warehouse and ensure that storage space is used efficiently?
-- **How do inventory counts relate to sales figures, and do they seem appropriate?
+- Which warehouse has the highest stock and capacity?
+- Can stock from one warehouse be absorbed by another warehouse?
+- Warehouse Capacity Utilization**: How can we assess the capacity utilization of each warehouse and ensure that storage space is used efficiently?
+- How do inventory counts relate to sales figures, and do they seem appropriate?
 
 ## Goal
 
@@ -20,6 +20,7 @@ The primary objective of this analysis is to provide data-driven recommendations
 - Identifying dormant stock and proposing solutions for better inventory management.
 - Recommending whether stock from one warehouse can be absorbed by another.
 - Assessing the alignment of inventory levels with sales data.
+- 
 ## Solution Approach
 
 The solution is divided into several steps:
@@ -55,4 +56,8 @@ Key findings from the analysis:
 
 - **SQL Server**: The primary database system used for storing and querying inventory and order data.
 - **T-SQL**: Structured Query Language (T-SQL) was used to write the queries for analyzing the warehouse and inventory data.
+- 
+## Full Report
+For a deeper understanding of the findings and detailed analysis, you can access the full report (Inventory Analysis Report) on the repository.
+
 
