@@ -10,7 +10,7 @@ Key questions addressed in this analysis:
 
 - Which warehouse has the highest stock and capacity?
 - Can stock from one warehouse be absorbed by another warehouse?
-- Warehouse Capacity Utilization**: How can we assess the capacity utilization of each warehouse and ensure that storage space is used efficiently?
+- Warehouse Capacity Utilization: How can we assess the capacity utilization of each warehouse and ensure that storage space is used efficiently?
 - How do inventory counts relate to sales figures, and do they seem appropriate?
 
 ## Goal
